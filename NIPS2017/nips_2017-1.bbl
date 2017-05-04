@@ -1,0 +1,118 @@
+\begin{thebibliography}{10}
+
+\bibitem{he2015delving}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Delving deep into rectifiers: Surpassing human-level performance on
+  imagenet classification.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 1026--1034, 2015.
+
+\bibitem{neftci2013event}
+Emre Neftci, Srinjoy Das, Bruno Pedroni, Kenneth Kreutz-Delgado, and Gert
+  Cauwenberghs.
+\newblock Event-driven contrastive divergence for spiking neuromorphic systems.
+\newblock {\em Frontiers in neuroscience}, 7, 2013.
+
+\bibitem{buesing2011neural}
+Lars Buesing, Johannes Bill, Bernhard Nessler, and Wolfgang Maass.
+\newblock Neural dynamics as sampling: a model for stochastic computation in
+  recurrent networks of spiking neurons.
+\newblock {\em PLoS Comput Biol}, 7(11):e1002211, 2011.
+
+\bibitem{o2016deep}
+Peter O'Connor and Max Welling.
+\newblock Deep spiking networks.
+\newblock {\em arXiv preprint}, 2016.
+
+\bibitem{Jug_etal_2012}
+F.~Jug, J.~Lengler, C.~Krautz, and A.~Steger.
+\newblock {Spiking networks and their rate-based equivalents: does it make
+  sense to use {S}iegert neurons?}
+\newblock In {\em Swiss Soc. for Neuroscience}, 2012.
+
+\bibitem{Stromatias2015scalable}
+Evangelos Stromatias, Daniel Neil, Francesco Galluppi, Michael Pfeiffer,
+  Shih-Chii Liu, and Steve Furber.
+\newblock {Scalable energy-efficient, low-latency implementations of trained
+  spiking deep belief networks on SpiNNaker}.
+\newblock In {\em Neural Networks (IJCNN), 2015 International Joint Conference
+  on}, pages 1--8. IEEE, 2015.
+
+\bibitem{furber2014spinnaker}
+Steve~B Furber, Francesco Galluppi, Sally Temple, Luis Plana, et~al.
+\newblock {The SpiNNaker project}.
+\newblock {\em Proceedings of the IEEE}, 102(5):652--665, 2014.
+
+\bibitem{glorot2011deep}
+Xavier Glorot, Antoine Bordes, and Yoshua Bengio.
+\newblock Deep sparse rectifier neural networks.
+\newblock In {\em International Conference on Artificial Intelligence and
+  Statistics}, pages 315--323, 2011.
+
+\bibitem{cao2015spiking}
+Yongqiang Cao, Yang Chen, and Deepak Khosla.
+\newblock Spiking deep convolutional neural networks for energy-efficient
+  object recognition.
+\newblock {\em International Journal of Computer Vision}, 113(1):54--66, 2015.
+
+\bibitem{diehl2015fast}
+Peter~U Diehl, Daniel Neil, Jonathan Binas, Matthew Cook, Shih-Chii Liu, and
+  Michael Pfeiffer.
+\newblock Fast-classifying, high-accuracy spiking deep networks through weight
+  and threshold balancing.
+\newblock In {\em Neural Networks (IJCNN), 2015 International Joint Conference
+  on}, pages 1--8. IEEE, 2015.
+
+\bibitem{srivastava2014dropout}
+Nitish Srivastava, Geoffrey~E Hinton, Alex Krizhevsky, Ilya Sutskever, and
+  Ruslan Salakhutdinov.
+\newblock Dropout: a simple way to prevent neural networks from overfitting.
+\newblock {\em Journal of Machine Learning Research}, 15(1):1929--1958, 2014.
+
+\bibitem{diehl2016conversion}
+Peter~U Diehl, Guido Zarrella, Andrew Cassidy, Bruno~U Pedroni, and Emre
+  Neftci.
+\newblock Conversion of artificial recurrent neural networks to spiking neural
+  networks for low-power neuromorphic hardware.
+\newblock {\em arXiv preprint}, 2016.
+
+\bibitem{merolla2014million}
+Paul~A Merolla, John~V Arthur, Rodrigo Alvarez-Icaza, Andrew~S Cassidy, Jun
+  Sawada, Filipp Akopyan, Bryan~L Jackson, Nabil Imam, Chen Guo, Yutaka
+  Nakamura, et~al.
+\newblock A million spiking-neuron integrated circuit with a scalable
+  communication network and interface.
+\newblock {\em Science}, 345(6197):668--673, 2014.
+
+\bibitem{hunsberger2015spiking}
+Eric Hunsberger and Chris Eliasmith.
+\newblock Spiking deep networks with lif neurons.
+\newblock {\em arXiv preprint}, 2015.
+
+\bibitem{Gerstner:2002}
+Wulfram Gerstner and Werner Kistler.
+\newblock {\em Spiking Neuron Models: An Introduction}.
+\newblock Cambridge University Press, New York, NY, USA, 2002.
+
+\bibitem{Noisysoftplus}
+Qian Liu and Steve Furber.
+\newblock Noisy softplus: A biology inspired activation function.
+\newblock In {\em Proceedings of the 23rd International Conference on Neural
+  Information Processing, Part IV}, pages 405--412, 2016.
+
+\bibitem{liu2016bench}
+Qian Liu, Evangelos Pineda-Garc\'ia\, Garibaldia nd~Stromatias, Teresa
+  Serrano-Gotarredona, and Steve Furber.
+\newblock Benchmarking spike-based visual recognition: A dataset and
+  evaluation.
+\newblock {\em Frontiers in Neuroscience}, 10:496, 2016.
+  http://journal.frontiersin.org/article/10.3389/fnins.2016.00496.
+
+\bibitem{stromatias2013power}
+Evangelos Stromatias, Francesco Galluppi, Cameron Patterson, and Steve Furber.
+\newblock {Power analysis of large-scale, real-time neural networks on
+  SpiNNaker}.
+\newblock In {\em Neural Networks (IJCNN), The 2013 International Joint
+  Conference on}, pages 1--8, 2013.
+
+\end{thebibliography}
