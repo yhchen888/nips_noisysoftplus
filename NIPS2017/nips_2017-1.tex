@@ -25,7 +25,7 @@
 \usepackage{graphicx}
 %\usepackage{subfigure}
 
-\title{ Extended Noisy Softplus and training method that enable layered up SNNs  to  be  trained as ANNs}
+\title{Generalised Off-line Training on\\ Spiking Deep Neural Networks}
 
 % The \author macro works with any number of authors. There are two
 % commands used to separate the names and addresses of multiple
@@ -74,10 +74,11 @@
 \maketitle
 
 \begin{abstract}
-  We extended the work of proposed activation function, Noisy Softplus, to fit into training of layered up spiking neural networks~(SNNs).
-  Thus, any ANN employing Noisy Softplus neurons, even of deep architecture, can be trained simply by the traditional algorithm, for example Back Propagation~(BP), and the trained weights can be directly used in the spiking version of the same network without any conversion.
-  Furthermore, the training method can be generalised to other activation units, for instance Rectified Linear Units (ReLU), to train deep SNNs off-line.
-  This research is crucial to provide an effective approach for SNN training, and to increase the classification accuracy of SNNs with biological characteristics and to close the gap between the performance of SNNs and ANNs.
+  We extended the work of proposed activation function, Noisy Softplus, to fit into training of layered up deep spiking neural networks~(SNNs).
+  Thus, a time-dependant, biologically-plausible spiking neuron can be modelled as a traditional rate-based neuron in artificial neural networks~(ANNs).
+  Such an ANN can be trained simply by the traditional algorithm, for example Back Propagation~(BP), and the trained weights can be directly used in the spiking version of the same network without any conversion.
+  Furthermore, the training method has been generalised to other activation units, for instance Rectified Linear Units (ReLU), to train deep SNNs off-line.
+  This research is crucial to provide a generalised SNN training method, to improve the learning ability of SNNs with biological characteristics, and to close the gap towards equivalent performance as ANNs.
  
 \end{abstract}
 
