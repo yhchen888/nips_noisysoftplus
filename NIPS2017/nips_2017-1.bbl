@@ -1,28 +1,23 @@
 \begin{thebibliography}{10}
 
-\bibitem{he2015delving}
-Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
-\newblock Delving deep into rectifiers: Surpassing human-level performance on
-  imagenet classification.
-\newblock In {\em Proceedings of the IEEE International Conference on Computer
-  Vision}, pages 1026--1034, 2015.
+\bibitem{deng2009imagenet}
+Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li~Fei-Fei.
+\newblock {Imagenet: a large-scale hierarchical image database}.
+\newblock In {\em Computer Vision and Pattern Recognition, 2009. CVPR 2009.
+  IEEE Conference on}, pages 248--255, 2009.
 
-\bibitem{neftci2013event}
-Emre Neftci, Srinjoy Das, Bruno Pedroni, Kenneth Kreutz-Delgado, and Gert
-  Cauwenberghs.
-\newblock Event-driven contrastive divergence for spiking neuromorphic systems.
-\newblock {\em Frontiers in neuroscience}, 7, 2013.
+\bibitem{silver2016mastering}
+David Silver, Aja Huang, Chris~J Maddison, Arthur Guez, Laurent Sifre, George
+  Van Den~Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda
+  Panneershelvam, Marc Lanctot, et~al.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock {\em Nature}, 529(7587):484--489, 2016.
 
-\bibitem{buesing2011neural}
-Lars Buesing, Johannes Bill, Bernhard Nessler, and Wolfgang Maass.
-\newblock Neural dynamics as sampling: a model for stochastic computation in
-  recurrent networks of spiking neurons.
-\newblock {\em PLoS Comput Biol}, 7(11):e1002211, 2011.
-
-\bibitem{o2016deep}
-Peter O'Connor and Max Welling.
-\newblock Deep spiking networks.
-\newblock {\em arXiv preprint}, 2016.
+\bibitem{indiveri2009artificial}
+Giacomo Indiveri, Elisabetta Chicca, and Rodney~J Douglas.
+\newblock {Artificial cognitive systems: from VLSI networks of spiking neurons
+  to neuromorphic cognition}.
+\newblock {\em Cognitive Computation}, 1(2):119--127, 2009.
 
 \bibitem{Jug_etal_2012}
 F.~Jug, J.~Lengler, C.~Krautz, and A.~Steger.
