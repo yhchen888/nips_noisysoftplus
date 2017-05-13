@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: nips_2017-1.aux
 The style file: unsrt.bst
 Database file #1: ref.bib
-You've used 17 entries,
+You've used 11 entries,
             1791 wiz_defined-function locations,
-            549 strings with 7506 characters,
-and the built_in function-call counts, 4858 in all, are:
-= -- 406
-> -- 280
-< -- 6
-+ -- 99
-- -- 82
-* -- 348
-:= -- 763
-add.period$ -- 53
-call.type$ -- 17
-change.case$ -- 16
+            515 strings with 5944 characters,
+and the built_in function-call counts, 3041 in all, are:
+= -- 259
+> -- 159
+< -- 4
++ -- 57
+- -- 46
+* -- 210
+:= -- 476
+add.period$ -- 35
+call.type$ -- 11
+change.case$ -- 11
 chr.to.int$ -- 0
-cite$ -- 17
-duplicate$ -- 215
-empty$ -- 446
-format.name$ -- 82
-if$ -- 1087
+cite$ -- 11
+duplicate$ -- 141
+empty$ -- 289
+format.name$ -- 46
+if$ -- 687
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 18
-newline$ -- 88
-num.names$ -- 17
-pop$ -- 62
+int.to.str$ -- 11
+missing$ -- 11
+newline$ -- 58
+num.names$ -- 11
+pop$ -- 39
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 108
+skip$ -- 70
 stack$ -- 0
-substring$ -- 303
-swap$ -- 66
-text.length$ -- 6
+substring$ -- 183
+swap$ -- 44
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 48
-width$ -- 19
-write$ -- 188
+while$ -- 31
+width$ -- 13
+write$ -- 123
