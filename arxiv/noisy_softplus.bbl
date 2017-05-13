@@ -1,0 +1,108 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{buesing2011neural}
+Buesing, L., Bill, J., Nessler, B., Maass, W.: Neural dynamics as sampling: a
+  model for stochastic computation in recurrent networks of spiking neurons.
+  PLoS Comput Biol  7(11),  e1002211 (2011)
+
+\bibitem{cao2015spiking}
+Cao, Y., Chen, Y., Khosla, D.: Spiking deep convolutional neural networks for
+  energy-efficient object recognition. International Journal of Computer Vision
+   113(1),  54--66 (2015)
+
+\bibitem{davison2008pynn}
+Davison, A.P., Br{\"u}derle, D., Eppler, J., Kremkow, J., Muller, E., Pecevski,
+  D., Perrinet, L., Yger, P.: {PyNN: a common interface for neuronal network
+  simulators}. Frontiers in neuroinformatics  2 (2008)
+
+\bibitem{diehl2015fast}
+Diehl, P.U., Neil, D., Binas, J., Cook, M., Liu, S.C., Pfeiffer, M.:
+  Fast-classifying, high-accuracy spiking deep networks through weight and
+  threshold balancing. In: Neural Networks (IJCNN), 2015 International Joint
+  Conference on. pp. 1--8. IEEE (2015)
+
+\bibitem{diehl2016conversion}
+Diehl, P.U., Zarrella, G., Cassidy, A., Pedroni, B.U., Neftci, E.: Conversion
+  of artificial recurrent neural networks to spiking neural networks for
+  low-power neuromorphic hardware. arXiv preprint  (2016)
+
+\bibitem{furber2014spinnaker}
+Furber, S.B., Galluppi, F., Temple, S., Plana, L., et~al.: {The SpiNNaker
+  project}. Proceedings of the IEEE  102(5),  652--665 (2014)
+
+\bibitem{glorot2011deep}
+Glorot, X., Bordes, A., Bengio, Y.: Deep sparse rectifier neural networks. In:
+  International Conference on Artificial Intelligence and Statistics. pp.
+  315--323 (2011)
+
+\bibitem{he2015delving}
+He, K., Zhang, X., Ren, S., Sun, J.: Delving deep into rectifiers: Surpassing
+  human-level performance on imagenet classification. In: Proceedings of the
+  IEEE International Conference on Computer Vision. pp. 1026--1034 (2015)
+
+\bibitem{hunsberger2015spiking}
+Hunsberger, E., Eliasmith, C.: 'spiking deep networks with lif neurons'. arXiv
+  preprint  (2015)
+
+\bibitem{Jug_etal_2012}
+Jug, F., Lengler, J., Krautz, C., Steger, A.: {Spiking networks and their
+  rate-based equivalents: does it make sense to use {S}iegert neurons?} In:
+  Swiss Soc. for Neuroscience (2012)
+
+\bibitem{la2008response}
+La~Camera, G., Giugliano, M., Senn, W., Fusi, S.: The response of cortical
+  neurons to in vivo-like input current: theory and experiment. Biological
+  cybernetics  99(4-5),  279--301 (2008)
+
+\bibitem{liu2016noisy}
+Liu, Q., Furber, S.: {Noisy Softplus: a biology inspired activation function}.
+  In: International Conference on Neural Information Processing. pp. 405--412.
+  Springer (2016)
+
+\bibitem{liu2016bench}
+Liu, Q., Pineda-Garc\'ia\, Garibaldia nd~Stromatias, E., Serrano-Gotarredona,
+  T., Furber, S.: Benchmarking spike-based visual recognition: a dataset and
+  evaluation. Frontiers in Neuroscience (under review)  (2016)
+
+\bibitem{merolla2014million}
+Merolla, P.A., Arthur, J.V., Alvarez-Icaza, R., Cassidy, A.S., Sawada, J.,
+  Akopyan, F., Jackson, B.L., Imam, N., Guo, C., Nakamura, Y., et~al.: A
+  million spiking-neuron integrated circuit with a scalable communication
+  network and interface. Science  345(6197),  668--673 (2014)
+
+\bibitem{neftci2013event}
+Neftci, E., Das, S., Pedroni, B., Kreutz-Delgado, K., Cauwenberghs, G.:
+  Event-driven contrastive divergence for spiking neuromorphic systems.
+  Frontiers in neuroscience  7 (2013)
+
+\bibitem{o2016deep}
+O'Connor, P., Welling, M.: Deep spiking networks. arXiv preprint  (2016)
+
+\bibitem{rauch2003neocortical}
+Rauch, A., La~Camera, G., L{\"u}scher, H.R., Senn, W., Fusi, S.: 'neocortical
+  pyramidal cells respond as integrate-and-fire neurons to in vivo--like input
+  currents'. Journal of neurophysiology  90(3),  1598--1612 (2003)
+
+\bibitem{siegert1951first}
+Siegert, A.J.: On the first passage time probability problem. Physical Review
+  81(4),  617 (1951)
+
+\bibitem{srivastava2014dropout}
+Srivastava, N., Hinton, G.E., Krizhevsky, A., Sutskever, I., Salakhutdinov, R.:
+  Dropout: a simple way to prevent neural networks from overfitting. Journal of
+  Machine Learning Research  15(1),  1929--1958 (2014)
+
+\bibitem{stromatias2013power}
+Stromatias, E., Galluppi, F., Patterson, C., Furber, S.: {Power analysis of
+  large-scale, real-time neural networks on SpiNNaker}. In: Neural Networks
+  (IJCNN), The 2013 International Joint Conference on. pp. 1--8 (2013)
+
+\bibitem{Stromatias2015scalable}
+Stromatias, E., Neil, D., Galluppi, F., Pfeiffer, M., Liu, S.C., Furber, S.:
+  {Scalable energy-efficient, low-latency implementations of trained spiking
+  deep belief networks on SpiNNaker}. In: Neural Networks (IJCNN), 2015
+  International Joint Conference on. pp. 1--8. IEEE (2015)
+
+\end{thebibliography}

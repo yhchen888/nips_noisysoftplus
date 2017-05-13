@@ -55,6 +55,12 @@ Peter~U Diehl, Daniel Neil, Jonathan Binas, Matthew Cook, Shih-Chii Liu, and
 \newblock In {\em Neural Networks (IJCNN), 2015 International Joint Conference
   on}, pages 1--8. IEEE, 2015.
 
+\bibitem{davison2008pynn}
+Andrew~P Davison, Daniel Br{\"u}derle, Jochen Eppler, Jens Kremkow, Eilif
+  Muller, Dejan Pecevski, Laurent Perrinet, and Pierre Yger.
+\newblock {PyNN: a common interface for neuronal network simulators}.
+\newblock {\em Frontiers in neuroinformatics}, 2, 2008.
+
 \bibitem{liu2016bench}
 Qian Liu, Evangelos Pineda-Garc\'ia\, Garibaldia nd~Stromatias, Teresa
   Serrano-Gotarredona, and Steve Furber.

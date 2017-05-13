@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: noisy_softplus.aux
+The style file: splncs03.bst
+Database file #1: ref.bib
+Warning--I didn't find a database entry for "tensorflow2015-whitepaper"
+Warning--I didn't find a database entry for "rokach2010ensemble"
+Warning--I didn't find a database entry for "deng2009imagenet"
+You've used 21 entries,
+            2785 wiz_defined-function locations,
+            710 strings with 9064 characters,
+and the built_in function-call counts, 13059 in all, are:
+= -- 1073
+> -- 507
+< -- 24
++ -- 209
+- -- 186
+* -- 844
+:= -- 1708
+add.period$ -- 30
+call.type$ -- 21
+change.case$ -- 168
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 1121
+empty$ -- 1056
+format.name$ -- 206
+if$ -- 2803
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 243
+newline$ -- 68
+num.names$ -- 42
+pop$ -- 435
+preamble$ -- 1
+purify$ -- 133
+quote$ -- 0
+skip$ -- 351
+stack$ -- 0
+substring$ -- 682
+swap$ -- 660
+text.length$ -- 24
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 84
+warning$ -- 0
+while$ -- 103
+width$ -- 23
+write$ -- 212
+(There were 3 warnings)

@@ -3,44 +3,47 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: nips_2017-1.aux
 The style file: unsrt.bst
 Database file #1: ref.bib
-You've used 11 entries,
+Warning--I didn't find a database entry for "tensorflow2015-whitepaper"
+Warning--I didn't find a database entry for "rokach2010ensemble"
+You've used 12 entries,
             1791 wiz_defined-function locations,
-            515 strings with 5944 characters,
-and the built_in function-call counts, 3041 in all, are:
-= -- 259
-> -- 159
+            523 strings with 6278 characters,
+and the built_in function-call counts, 3270 in all, are:
+= -- 272
+> -- 185
 < -- 4
-+ -- 57
-- -- 46
-* -- 210
-:= -- 476
-add.period$ -- 35
-call.type$ -- 11
-change.case$ -- 11
++ -- 66
+- -- 54
+* -- 229
+:= -- 522
+add.period$ -- 38
+call.type$ -- 12
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 11
-duplicate$ -- 141
-empty$ -- 289
-format.name$ -- 46
-if$ -- 687
+cite$ -- 12
+duplicate$ -- 149
+empty$ -- 303
+format.name$ -- 54
+if$ -- 732
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 11
-newline$ -- 58
-num.names$ -- 11
-pop$ -- 39
+int.to.str$ -- 12
+missing$ -- 12
+newline$ -- 63
+num.names$ -- 12
+pop$ -- 40
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 70
+skip$ -- 74
 stack$ -- 0
 substring$ -- 183
-swap$ -- 44
+swap$ -- 45
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 31
-width$ -- 13
-write$ -- 123
+while$ -- 32
+width$ -- 14
+write$ -- 134
+(There were 2 warnings)
