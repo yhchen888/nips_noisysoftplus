@@ -1,0 +1,782 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.6)  13 MAY 2017 23:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**noisy_softplus.tex
+(./noisy_softplus.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(./llncs.cls
+Document Class: llncs 2014/03/31 v2.19 
+ LaTeX document class for Lecture Notes in Computer Science
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count87
+\mult@box=\box26
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count88
+\c@collectmore=\count89
+\doublecol@number=\count90
+\multicoltolerance=\count91
+\multicolpretolerance=\count92
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count93
+\c@finalcolumnbadness=\count94
+\last@try=\dimen108
+\multicolovershoot=\dimen109
+\multicolundershoot=\dimen110
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\multicol@sort@counter=\count95
+) (./aliascnt.sty
+Package: aliascnt 2009/09/08 v1.3 Alias counter (HO)
+
+(./remreset.sty))
+\c@chapter=\count96
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+\tocchpnum=\dimen111
+\tocsecnum=\dimen112
+\tocsectotal=\dimen113
+\tocsubsecnum=\dimen114
+\tocsubsectotal=\dimen115
+\tocsubsubsecnum=\dimen116
+\tocsubsubsectotal=\dimen117
+\tocparanum=\dimen118
+\tocparatotal=\dimen119
+\tocsubparanum=\dimen120
+\@tempcntc=\count97
+\fnindent=\dimen121
+\c@@inst=\count98
+\c@@auth=\count99
+\c@auco=\count100
+\instindent=\dimen122
+\authrun=\box52
+\authorrunning=\toks14
+\tocauthor=\toks15
+\titrun=\box53
+\titlerunning=\toks16
+\toctitle=\toks17
+\c@theorem=\count101
+\c@case=\count102
+\c@conjecture=\count103
+\c@corollary=\count104
+\c@definition=\count105
+\c@example=\count106
+\c@exercise=\count107
+\c@lemma=\count108
+\c@note=\count109
+\c@problem=\count110
+\c@property=\count111
+\c@proposition=\count112
+\c@question=\count113
+\c@solution=\count114
+\c@remark=\count115
+\headlineindent=\dimen123
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen124
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen125
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count116
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count117
+\leftroot@=\count118
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count119
+\DOTSCASE@=\count120
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+\macc@depth=\count121
+\c@MaxMatrixCols=\count122
+\dotsspace@=\muskip10
+\c@parentequation=\count123
+\dspbrk@lvl=\count124
+\tag@help=\toks20
+\row@=\count125
+\column@=\count126
+\maxfields@=\count127
+\andhelp@=\toks21
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks22
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count128
+))
+\Gin@req@height=\dimen133
+\Gin@req@width=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen135
+\captionmargin@=\dimen136
+\captionwidth=\dimen137
+\caption@tempdima=\dimen138
+\caption@indent=\dimen139
+\caption@parindent=\dimen140
+\caption@hangindent=\dimen141
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\small \vskip \abovecap
+tionskip \sbox \@tempboxa {{\bfseries #1.} #2}\ifdim \wd \@tempboxa >\hsize {\b
+fseries #1.} #2\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@
+tempboxa \hfil }\fi \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count129
+)
+\c@subfigure=\count130
+\c@subtable=\count131
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (./noisy_softplus.aux)
+\openout1 = `noisy_softplus.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count132
+\scratchdimen=\dimen142
+\scratchbox=\box56
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen143
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: Incompatible package detected (regarding \@caption).
+(caption)             \@caption = \long macro:#1[#2]#3->\par \addcontentsline {
+\csname ext@#1\endcsname }{#1}{\protect \numberline {\csname the#1\endcsname }{
+\ignorespaces #2}}\begingroup \@parboxrestore \@makecaption {\csname fnum@#1\en
+dcsname }{\ignorespaces #3}\par \endgroup .
+
+
+Package caption Warning: Forced redefinition of \caption since the
+(caption)                unsupported(!) package option `compatibility=false'
+(caption)                was given.
+See the caption package documentation for explanation.
+
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 94.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 94.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 94.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 94.
+
+Overfull \hbox (16.87152pt too wide) in paragraph at lines 98--102
+\OT1/cmr/m/n/9 Soft-plus [12], to fit into train-ing of lay-ered up spik-ing ne
+u-ral net-works (SNNs).
+ []
+
+
+Overfull \hbox (0.72499pt too wide) in paragraph at lines 102--103
+\OT1/cmr/bx/n/9 Keywords:\OT1/cmr/m/n/9 activation func-tion, spik-ing neu-ral 
+net-work, leaky-integrate-
+ []
+
+
+Overfull \hbox (0.65485pt too wide) in paragraph at lines 111--118
+[]\OT1/cmr/m/n/10 Theoretical stud-ies have shown that biologically-plausible l
+earn-ing, e.g. Spike-
+ []
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+<1.pdf, id=28, 433.62pt x 289.08pt>
+File: 1.pdf Graphic file (type pdf)
+ <use 1.pdf>
+Package pdftex.def Info: 1.pdf used on input line 218.
+(pdftex.def)             Requested size: 242.98541pt x 161.98955pt.
+ [4 <./1.pdf>]
+<2-1.png, id=70, 433.62pt x 289.08pt>
+File: 2-1.png Graphic file (type png)
+ <use 2-1.png>
+Package pdftex.def Info: 2-1.png used on input line 316.
+(pdftex.def)             Requested size: 170.09244pt x 113.39357pt.
+
+<2-10.png, id=72, 433.62pt x 289.08pt>
+File: 2-10.png Graphic file (type png)
+ <use 2-10.png>
+Package pdftex.def Info: 2-10.png used on input line 320.
+(pdftex.def)             Requested size: 170.09244pt x 113.39357pt.
+
+<curr_dt1.pdf, id=73, 433.62pt x 289.08pt>
+File: curr_dt1.pdf Graphic file (type pdf)
+ <use curr_dt1.pdf>
+Package pdftex.def Info: curr_dt1.pdf used on input line 331.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<curr_dt10.pdf, id=74, 433.62pt x 289.08pt>
+File: curr_dt10.pdf Graphic file (type pdf)
+ <use curr_dt10.pdf>
+Package pdftex.def Info: curr_dt10.pdf used on input line 335.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<psd_dt1.pdf, id=75, 433.62pt x 289.08pt>
+File: psd_dt1.pdf Graphic file (type pdf)
+ <use psd_dt1.pdf>
+Package pdftex.def Info: psd_dt1.pdf used on input line 339.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<psd_dt10.pdf, id=76, 433.62pt x 289.08pt>
+File: psd_dt10.pdf Graphic file (type pdf)
+ <use psd_dt10.pdf>
+Package pdftex.def Info: psd_dt10.pdf used on input line 343.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<autocorr_dt1.pdf, id=77, 433.62pt x 289.08pt>
+File: autocorr_dt1.pdf Graphic file (type pdf)
+ <use autocorr_dt1.pdf>
+Package pdftex.def Info: autocorr_dt1.pdf used on input line 347.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<autocorr_dt10.pdf, id=78, 433.62pt x 289.08pt>
+File: autocorr_dt10.pdf Graphic file (type pdf)
+ <use autocorr_dt10.pdf>
+Package pdftex.def Info: autocorr_dt10.pdf used on input line 351.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<distr_dt1.pdf, id=79, 433.62pt x 289.08pt>
+File: distr_dt1.pdf Graphic file (type pdf)
+ <use distr_dt1.pdf>
+Package pdftex.def Info: distr_dt1.pdf used on input line 355.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<distr_dt10.pdf, id=80, 433.62pt x 289.08pt>
+File: distr_dt10.pdf Graphic file (type pdf)
+ <use distr_dt10.pdf>
+Package pdftex.def Info: distr_dt10.pdf used on input line 359.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+
+LaTeX Warning: Float too large for page by 9.14267pt on input line 364.
+
+[5] <spiked_curve_1.png, id=84, 433.62pt x 289.08pt>
+File: spiked_curve_1.png Graphic file (type png)
+ <use spiked_curve_1.png>
+Package pdftex.def Info: spiked_curve_1.png used on input line 460.
+(pdftex.def)             Requested size: 170.09244pt x 113.39357pt.
+
+<spiked_curve_10.png, id=85, 433.62pt x 289.08pt>
+File: spiked_curve_10.png Graphic file (type png)
+ <use spiked_curve_10.png>
+Package pdftex.def Info: spiked_curve_10.png used on input line 464.
+(pdftex.def)             Requested size: 170.09244pt x 113.39357pt.
+
+<curr_tau1.pdf, id=86, 433.62pt x 289.08pt>
+File: curr_tau1.pdf Graphic file (type pdf)
+ <use curr_tau1.pdf>
+Package pdftex.def Info: curr_tau1.pdf used on input line 475.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<curr_tau10.pdf, id=87, 433.62pt x 289.08pt>
+File: curr_tau10.pdf Graphic file (type pdf)
+ <use curr_tau10.pdf>
+Package pdftex.def Info: curr_tau10.pdf used on input line 479.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<psd_tau1.pdf, id=88, 433.62pt x 289.08pt>
+File: psd_tau1.pdf Graphic file (type pdf)
+ <use psd_tau1.pdf>
+Package pdftex.def Info: psd_tau1.pdf used on input line 483.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<psd_tau10.pdf, id=89, 433.62pt x 289.08pt>
+File: psd_tau10.pdf Graphic file (type pdf)
+ <use psd_tau10.pdf>
+Package pdftex.def Info: psd_tau10.pdf used on input line 487.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<autocorr_tau1.pdf, id=90, 433.62pt x 289.08pt>
+File: autocorr_tau1.pdf Graphic file (type pdf)
+ <use autocorr_tau1.pdf>
+Package pdftex.def Info: autocorr_tau1.pdf used on input line 491.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<autocorr_tau10.pdf, id=91, 433.62pt x 289.08pt>
+File: autocorr_tau10.pdf Graphic file (type pdf)
+ <use autocorr_tau10.pdf>
+Package pdftex.def Info: autocorr_tau10.pdf used on input line 495.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<distr_tau1.pdf, id=92, 433.62pt x 289.08pt>
+File: distr_tau1.pdf Graphic file (type pdf)
+ <use distr_tau1.pdf>
+Package pdftex.def Info: distr_tau1.pdf used on input line 499.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+<distr_tau10.pdf, id=93, 433.62pt x 289.08pt>
+File: distr_tau10.pdf Graphic file (type pdf)
+ <use distr_tau10.pdf>
+Package pdftex.def Info: distr_tau10.pdf used on input line 503.
+(pdftex.def)             Requested size: 149.26057pt x 99.50774pt.
+
+
+LaTeX Warning: Float too large for page by 10.85931pt on input line 508.
+
+[6 <./2-1.png> <./2-10.png>] [7 <./curr_dt1.pdf> <./curr_dt10.pdf
+
+pdfTeX warning: pdflatex (file ./curr_dt10.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./psd_dt1.pdf
+
+pdfTeX warning: pdflatex (file ./psd_dt1.pdf): PDF inclusion: multiple pdfs wit
+h page group included in a single page
+> <./psd_dt10.pdf
+
+pdfTeX warning: pdflatex (file ./psd_dt10.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./autocorr_dt1.pdf
+
+pdfTeX warning: pdflatex (file ./autocorr_dt1.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./autocorr_dt10.pdf
+
+pdfTeX warning: pdflatex (file ./autocorr_dt10.pdf): PDF inclusion: multiple pd
+fs with page group included in a single page
+> <./distr_dt1.pdf
+
+pdfTeX warning: pdflatex (file ./distr_dt1.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./distr_dt10.pdf
+
+pdfTeX warning: pdflatex (file ./distr_dt10.pdf): PDF inclusion: multiple pdfs 
+with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./spiked_curve_1.png> <./spiked_curve_10.png>] [9 <./curr_tau1.pdf> <./cur
+r_tau10.pdf
+
+pdfTeX warning: pdflatex (file ./curr_tau10.pdf): PDF inclusion: multiple pdfs 
+with page group included in a single page
+> <./psd_tau1.pdf
+
+pdfTeX warning: pdflatex (file ./psd_tau1.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./psd_tau10.pdf
+
+pdfTeX warning: pdflatex (file ./psd_tau10.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./autocorr_tau1.pdf
+
+pdfTeX warning: pdflatex (file ./autocorr_tau1.pdf): PDF inclusion: multiple pd
+fs with page group included in a single page
+> <./autocorr_tau10.pdf
+
+pdfTeX warning: pdflatex (file ./autocorr_tau10.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+> <./distr_tau1.pdf
+
+pdfTeX warning: pdflatex (file ./distr_tau1.pdf): PDF inclusion: multiple pdfs 
+with page group included in a single page
+> <./distr_tau10.pdf
+
+pdfTeX warning: pdflatex (file ./distr_tau10.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+>] <4.pdf, id=763, 433.62pt x 289.08pt>
+File: 4.pdf Graphic file (type pdf)
+ <use 4.pdf>
+Package pdftex.def Info: 4.pdf used on input line 553.
+(pdftex.def)             Requested size: 208.27623pt x 138.85385pt.
+
+<5.pdf, id=764, 578.16pt x 433.62pt>
+File: 5.pdf Graphic file (type pdf)
+ <use 5.pdf>
+Package pdftex.def Info: 5.pdf used on input line 557.
+(pdftex.def)             Requested size: 242.98541pt x 182.23825pt.
+
+<4-1.png, id=765, 433.62pt x 289.08pt>
+File: 4-1.png Graphic file (type png)
+ <use 4-1.png>
+Package pdftex.def Info: 4-1.png used on input line 591.
+(pdftex.def)             Requested size: 170.09244pt x 113.39357pt.
+
+<4-10.png, id=766, 433.62pt x 289.08pt>
+File: 4-10.png Graphic file (type png)
+ <use 4-10.png>
+Package pdftex.def Info: 4-10.png used on input line 595.
+(pdftex.def)             Requested size: 170.09244pt x 113.39357pt.
+
+<neuron.pdf, id=767, 209.78375pt x 101.37875pt>
+File: neuron.pdf Graphic file (type pdf)
+ <use neuron.pdf>
+Package pdftex.def Info: neuron.pdf used on input line 612.
+(pdftex.def)             Requested size: 242.98541pt x 117.42462pt.
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./4.pdf> <./5.pdf
+
+pdfTeX warning: pdflatex (file ./5.pdf): PDF inclusion: multiple pdfs with page
+ group included in a single page
+>] <neuron_o.pdf, id=842, 304.13625pt x 102.3825pt>
+File: neuron_o.pdf Graphic file (type pdf)
+ <use neuron_o.pdf>
+Package pdftex.def Info: neuron_o.pdf used on input line 639.
+(pdftex.def)             Requested size: 340.17958pt x 114.5192pt.
+ [12 <./4-1.png> <./4-10.png> <./neuron.pdf>]
+<neuron_t.pdf, id=874, 265.99374pt x 102.3825pt>
+File: neuron_t.pdf Graphic file (type pdf)
+ <use neuron_t.pdf>
+Package pdftex.def Info: neuron_t.pdf used on input line 669.
+(pdftex.def)             Requested size: 277.69987pt x 106.89708pt.
+ [13 <./neuron_o.pdf>] [14 <./neuron_t.pdf>] <6-1.png, id=946, 578.16pt x 325.2
+15pt>
+File: 6-1.png Graphic file (type png)
+
+<use 6-1.png>
+Package pdftex.def Info: 6-1.png used on input line 722.
+(pdftex.def)             Requested size: 277.69987pt x 156.20563pt.
+ <6-2.pdf, id=947, 361.35pt x 361.35pt>
+File: 6-2.pdf Graphic file (type pdf)
+ <use 6-2.pdf>
+Package pdftex.def Info: 6-2.pdf used on input line 727.
+(pdftex.def)             Requested size: 104.1381pt x 104.13818pt.
+
+<6-3.pdf, id=948, 361.35pt x 361.35pt>
+File: 6-3.pdf Graphic file (type pdf)
+ <use 6-3.pdf>
+Package pdftex.def Info: 6-3.pdf used on input line 732.
+(pdftex.def)             Requested size: 104.1381pt x 104.13818pt.
+
+<6-4.pdf, id=949, 361.35pt x 361.35pt>
+File: 6-4.pdf Graphic file (type pdf)
+ <use 6-4.pdf>
+Package pdftex.def Info: 6-4.pdf used on input line 737.
+(pdftex.def)             Requested size: 104.1381pt x 104.13818pt.
+
+<6-5-1.png, id=950, 433.62pt x 289.08pt>
+File: 6-5-1.png Graphic file (type png)
+ <use 6-5-1.png>
+Package pdftex.def Info: 6-5-1.png used on input line 773.
+(pdftex.def)             Requested size: 208.27623pt x 138.85385pt.
+
+<6-5-2.png, id=951, 433.62pt x 289.08pt>
+File: 6-5-2.png Graphic file (type png)
+ <use 6-5-2.png>
+Package pdftex.def Info: 6-5-2.png used on input line 776.
+(pdftex.def)             Requested size: 208.27623pt x 138.85385pt.
+
+<6-5-3.pdf, id=952, 433.62pt x 289.08pt>
+File: 6-5-3.pdf Graphic file (type pdf)
+ <use 6-5-3.pdf>
+Package pdftex.def Info: 6-5-3.pdf used on input line 779.
+(pdftex.def)             Requested size: 208.27623pt x 138.85385pt.
+ [15]
+<7.pdf, id=956, 722.7pt x 758.835pt>
+File: 7.pdf Graphic file (type pdf)
+ <use 7.pdf>
+Package pdftex.def Info: 7.pdf used on input line 795.
+(pdftex.def)             Requested size: 173.56177pt x 182.23991pt.
+
+<8.png, id=957, 433.62pt x 289.08pt>
+File: 8.png Graphic file (type png)
+ <use 8.png>
+Package pdftex.def Info: 8.png used on input line 811.
+(pdftex.def)             Requested size: 242.98541pt x 161.98955pt.
+ [16 <./6-1.png> <./6-2.pdf> <./6-3.pdf
+
+pdfTeX warning: pdflatex (file ./6-3.pdf): PDF inclusion: multiple pdfs with pa
+ge group included in a single page
+> <./6-4.pdf
+
+pdfTeX warning: pdflatex (file ./6-4.pdf): PDF inclusion: multiple pdfs with pa
+ge group included in a single page
+>] [17 <./6-5-1.png> <./6-5-2.png> <./6-5-3.pdf>] [18 <./7.pdf> <./8.png>]
+<9-2.pdf, id=1131, 433.62pt x 289.08pt>
+File: 9-2.pdf Graphic file (type pdf)
+ <use 9-2.pdf>
+Package pdftex.def Info: 9-2.pdf used on input line 836.
+(pdftex.def)             Requested size: 242.98541pt x 161.98955pt.
+ [19 <./9-2.pdf>]
+<8-2.png, id=1179, 433.62pt x 289.08pt>
+File: 8-2.png Graphic file (type png)
+ <use 8-2.png>
+Package pdftex.def Info: 8-2.png used on input line 905.
+(pdftex.def)             Requested size: 170.09244pt x 113.39357pt.
+
+<8-3.png, id=1180, 433.62pt x 289.08pt>
+File: 8-3.png Graphic file (type png)
+ <use 8-3.png>
+Package pdftex.def Info: 8-3.png used on input line 909.
+(pdftex.def)             Requested size: 170.09244pt x 113.39357pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20 <./8-2.png> <./8-3.png>] [21]
+
+LaTeX Warning: Citation `tensorflow2015-whitepaper' on page 22 undefined on inp
+ut line 966.
+
+
+LaTeX Warning: Citation `rokach2010ensemble' on page 22 undefined on input line
+ 971.
+
+
+LaTeX Warning: Citation `deng2009imagenet' on page 22 undefined on input line 9
+73.
+
+(./noisy_softplus.bbl
+Overfull \hbox (2.79395pt too wide) in paragraph at lines 976--1
+\OT1/cmr/m/n/10 ing from the Na-tional Nat-u-ral Sci-ence Foun-da-tion of China
+ (61662013,U1501252),
+ []
+
+[22]) [23] (./noisy_softplus.aux) ) 
+Here is how much of TeX's memory you used:
+ 4291 strings out of 495028
+ 61387 string characters out of 6181497
+ 133632 words of memory out of 5000000
+ 7397 multiletter control sequences out of 15000+600000
+ 12005 words of font info for 45 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,9n,40p,646b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
+Output written on noisy_softplus.pdf (23 pages, 1097156 bytes).
+PDF statistics:
+ 1259 PDF objects out of 1440 (max. 8388607)
+ 409 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+
